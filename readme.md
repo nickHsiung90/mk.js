@@ -1,4 +1,4 @@
-#mk.js
+#mk.js  html格斗游戏
 
 This is simple fighting game created with HTML5 canvas and JavaScript. It has three game modes:
 * `Basic` - with one active and on inactive player.
